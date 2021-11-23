@@ -1,0 +1,26 @@
+.main-description{
+    padding: 0 16%;
+    /* background: cornflowerblue; */
+    position: relative;
+}
+.main-description-a{
+    text-decoration: none;
+    letter-spacing: 5px;
+    color: var(--black);
+    transition: 200ms ease-in-out;
+}
+.main-description-a:hover{
+    color: var(--dark-grey);
+    fill: var(--dark-grey);
+}
+.main-description-a:hover svg{
+    fill: var(--dark-grey);
+}
+
+
+@media (max-width: 1440px){
+    .main-description{
+        padding: 48px 24px;
+    }
+    
+}

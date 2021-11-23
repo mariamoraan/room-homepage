@@ -1,0 +1,14 @@
+.button{
+    background: var(--black);
+    border: none;
+    width: 80px;
+    height: 80px;
+}
+.button:hover{
+    cursor: pointer;
+    background: var(--dark-grey);
+}
+.button:active{
+    cursor: pointer;
+    background: var(--black);
+}

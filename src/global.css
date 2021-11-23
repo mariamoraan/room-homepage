@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700&display=swap');
+
+:root{
+  --dark-grey:hsl(0, 0%, 63%);
+  --black:hsl(0, 0%, 0%);
+  --white: hsl(0, 0%, 100%);
+  --very-dark-grey:hsl(0, 0%, 27%);
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  font-family: 'Spartan', sans-serif;
+}
+
+*{
+ 
+}
+
+h1,h2,p,a{
+  margin: 0;
+  padding: 0;
+  margin-bottom: 28px;
+}
+li, ul{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-size: 2rem;
+}
+p{
+  color: var(--dark-grey);
+  line-height: 1.6;
+}
+a{
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  position: relative;
+}
