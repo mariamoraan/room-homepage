@@ -13,7 +13,7 @@ const MainDescription = () => {
                 Our experts combine form and function in bringing your vision to life. Create a room in your 
                 own style with our collection and make your property a reflection of you and what you love.
             </p>   
-            <a className="main-description-a" href="/">SHOP NOW  <ArrowIcon/></a>
+            <a className="main-description-a" href="#">SHOP NOW  <ArrowIcon/></a>
            
         </div>
     );
