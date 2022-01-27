@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://mia-moran.github.io/room-homepage/](https://mia-moran.github.io/room-homepage/)
+- Live Site URL: [https://mariamoraan.github.io/room-homepage/](https://mia-moran.github.io/room-homepage/)
 
 ## My process
 
